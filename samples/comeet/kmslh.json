@@ -1,0 +1,436 @@
+[
+  {
+    "name": "DevOps Engineer",
+    "department": "R&D - DevOps",
+    "email": "kmslh.9D.073@applynow.io",
+    "location": {
+      "name": "Belgrade, Serbia",
+      "country": "RS",
+      "city": "Beograd",
+      "state": "Serbia",
+      "postal_code": "",
+      "street_name": "5A Milentija Popovića",
+      "arrival_instructions": "<p>Sava Business Center, Savograd<br/><br/></p>",
+      "street_number": "5A",
+      "timezone": "Europe/Belgrade",
+      "location_uid": "9C.306",
+      "is_remote": true
+    },
+    "url_comeet_hosted_page": "https://www.comeet.com/jobs/kmslh/97.008/devops-engineer/9D.073",
+    "url_recruit_hosted_page": "https://www.comeet.com/jobs/kmslh/97.008/devops-engineer/9D.073",
+    "url_active_page": "https://kmslh.com/careers/co/belgrade-serbia/9D.073/devops-engineer/all/",
+    "employment_type": "Full-time",
+    "experience_level": "Senior",
+    "uid": "9D.073",
+    "custom_fields": {
+      "details": [
+        {
+          "name": "Description",
+          "value": "<p><strong>Company Overview</strong></p><p>Our company is seeking a highly skilled and experienced Senior DevOps Engineer to join our dynamic technology team. We are looking for a strategic technology professional who can drive our cloud infrastructure, continuous integration/continuous deployment (CI/CD) processes, and overall system reliability.</p><p><br></p><p><strong>Job Overview</strong></p><p>The Senior DevOps Engineer will be responsible for designing, implementing, and maintaining scalable and efficient cloud infrastructure and deployment pipelines. This role requires a deep understanding of modern cloud technologies, infrastructure as code, and automation strategies.</p>",
+          "order": 1
+        },
+        {
+          "name": "Responsibilities",
+          "value": "<p class=\"editor-paragraph\"><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Key Responsibilities</strong></b></p><ul class=\"editor-list-ul\"><li value=\"1\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Design and implement robust cloud infrastructure using Infrastructure as Code (IaC) principles with </span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Terraform</strong></b></li><li value=\"2\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Develop and maintain comprehensive CI/CD pipelines using to</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\"> GitLab CI</strong></b></li><li value=\"3\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Architect and manage containerization strategies using </span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Cloud Managed Kubernetes</strong></b></li><li value=\"4\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Implement and maintain monitoring, logging, and observability solutions using tools like </span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Prometheus, Grafana</strong></b></li><li value=\"5\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Ensure high availability, scalability, and security of cloud environments across </span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Azure </strong></b><span style=\"white-space: pre-wrap;\">and AWS</span></li><li value=\"6\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Collaborate with development teams to optimize application deployment processes and improve system reliability</span></li><li value=\"7\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Develop and maintain scripts and automation tools to enhance operational efficiency</span></li><li value=\"8\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Perform root cause analysis and troubleshoot complex infrastructure and deployment issues</span></li><li value=\"9\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Implement and maintain robust security protocols, including access management, network security, and compliance standards</span></li><li value=\"10\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Participate On-call activities</span></li></ul>",
+          "order": 2
+        },
+        {
+          "name": "Requirements",
+          "value": "<p class=\"editor-paragraph\"><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Required Technical Skills</strong></b></p><ul class=\"editor-list-ul\"><li value=\"1\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">5+ years of hands-on experience in DevOps engineering roles</span></li><li value=\"2\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Production-grade Kubernetes projects from the scratch (</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">proven, hands-on production experience with Kubernetes</strong></b><span style=\"white-space: pre-wrap;\">)</span></li><li value=\"3\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Expert-level knowledge of cloud platforms (</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Azure</strong></b><span style=\"white-space: pre-wrap;\">, AWS or GCP)</span></li><li value=\"4\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Proficiency in Infrastructure as Code tools (</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Terraform</strong></b><span style=\"white-space: pre-wrap;\">, CloudFormation or Pulumi)</span></li><li value=\"5\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Advanced scripting skills (Python, Bash, Go)</span></li><li value=\"6\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Extensive experience with containerization technologies (Docker, Kubernetes)</span></li><li value=\"7\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Strong background in CI/CD pipeline development (</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Gitlab CI</strong></b><span style=\"white-space: pre-wrap;\">, Github Actions, Azure DevOps)</span></li><li value=\"8\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Application management using GitOps approach (</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">FluxCD</strong></b><span style=\"white-space: pre-wrap;\">, Argo CD).</span></li><li value=\"9\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Expertise in configuration management tools (</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Ansible,</strong></b><span style=\"white-space: pre-wrap;\"> Chef, Puppet)</span></li><li value=\"10\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Advanced understanding of networking, security, and system administration</span></li><li value=\"11\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Experience with developing and implementing cloud spending strategies</span></li><li value=\"12\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Monitoring: ELK Stack, and CloudWatch</span></li></ul><p class=\"editor-paragraph\"><br></p><p class=\"editor-paragraph\"><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Soft Skills</strong></b></p><ul class=\"editor-list-ul\"><li value=\"1\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Strong communication and collaboration abilities</span></li><li value=\"2\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Problem-solving and critical thinking skills</span></li><li value=\"3\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Ability to work in an agile, fast-paced environment</span></li><li value=\"4\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Passion for continuous learning and technological innovation</span></li><li value=\"5\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Excellent documentation and knowledge-sharing capabilities</span></li></ul>",
+          "order": 3
+        },
+        {
+          "name": "Advantages",
+          "value": "<ul class=\"editor-list-ul\"><li value=\"1\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Bachelor's degree in Computer Science, Information Technology, or related field</span></li><li value=\"2\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Professional certifications such as AWS Certified DevOps Engineer, Azure DevOps Engineer, or Google Cloud Professional DevOps Engineer preferred</span></li><li value=\"3\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Proven track record of successful cloud infrastructure and deployment projects</span></li></ul>",
+          "order": 4
+        },
+        {
+          "name": "Benefits",
+          "value": null,
+          "order": 5
+        }
+      ],
+      "categories": []
+    },
+    "internal_use_custom_id": "",
+    "url_detected_page": "https://kmslh.com/careers/co/belgrade-serbia/9D.073/devops-engineer/all/",
+    "picture_url": null,
+    "time_updated": "2026-11-04T13:58:31Z",
+    "company_name": "KMS Lighthouse",
+    "is_internal": false,
+    "linkedin_job_posting_id": null,
+    "workplace_type": "Hybrid"
+  },
+  {
+    "name": "Enterprise Account Executive",
+    "department": "Sales",
+    "email": "kmslh.FA.D61@applynow.io",
+    "location": {
+      "name": "Dallas, Texas, United States",
+      "country": "US",
+      "city": "Irving",
+      "state": "TX",
+      "postal_code": "75039",
+      "street_name": "909 Lake Carolyn Parkway",
+      "arrival_instructions": "<p dir=\"RTL\" style=\"direction: rtl;text-align: right;\">909 Tower Lake Carolyn Pkwy</p><p dir=\"RTL\" style=\"direction: rtl;text-align: right;\">Suite 310</p><p dir=\"RTL\" style=\"direction: rtl;text-align: right;\">Irving, TX 75039</p><p dir=\"RTL\" style=\"direction: rtl;text-align: right;\">United States</p>",
+      "street_number": "",
+      "timezone": "America/Chicago",
+      "location_uid": "EE.209",
+      "is_remote": true
+    },
+    "url_comeet_hosted_page": "https://www.comeet.com/jobs/kmslh/97.008/enterprise-account-executive/FA.D61",
+    "url_recruit_hosted_page": "https://www.comeet.com/jobs/kmslh/97.008/enterprise-account-executive/FA.D61",
+    "url_active_page": "https://kmslh.com/careers/co/dallas-texas-united-states/FA.D61/enterprise-account-executive/all/",
+    "employment_type": "Full-time",
+    "experience_level": "Intermediate",
+    "uid": "FA.D61",
+    "custom_fields": {
+      "details": [
+        {
+          "name": "Description",
+          "value": "<p>KMS Lighthouse is one of the hottest up and coming tech companies working with Fortune 500 and Fortune 1000 enterprises around the world!&nbsp;Named the #1 knowledge management company in the Forrester Wave Report 2024, KMS Lighthouse is an industry leader in knowledge management.&nbsp;</p><p>We are looking for high-energy, driven professionals with <strong>natural sales instincts</strong> to join our growing sales team! As an <strong>Account Executive</strong> you will be hunting and closing new business within the US. Ideal candidates should be eager to advance in our organization by demonstrating their ability to grow activity and move things forward to high scales.</p>",
+          "order": 1
+        },
+        {
+          "name": "Responsibilities",
+          "value": "<ul><li>Develop, manage and prioritize a pipeline of strategic target accounts within a defined territory</li><li>Drive the sales process from prospect to deal closure</li><li>Maintain active engagement with new and existing leads through creative and strategic follow-up communications</li><li>Generate new business opportunities to fuel our growth</li><li>Build and maintain quality relationships with enterprise-level executives</li><li>Conduct high level conversations with senior executives in prospect accounts</li><li>Work closely with internal teams needed to help further the sales process (i.e. Sales Engineers, implementation, etc.)</li><li>Achieve monthly quotas of qualified opportunities and closed business</li></ul>",
+          "order": 2
+        },
+        {
+          "name": "Requirements",
+          "value": "<ul><li>3+ years of experience as an Account Executive, Sales Executive, or similar role selling a SaaS</li><li>Prior experience in B2B sales, with a proven, successful track record of generating revenue and closing business</li><li>Prior experience targeting large enterprise organizations or equivalent years of experience selling to mid-market</li><li>Proven track record of success prospecting for new business</li><li>Excellent written/verbal communication skills</li><li>Strong presentation skills</li><li>Motivation, drive, and a self-starting attitude</li></ul>",
+          "order": 3
+        },
+        {
+          "name": "Advantages",
+          "value": null,
+          "order": 4
+        },
+        {
+          "name": "Benefits",
+          "value": "<ul><li>Medical, Vision, Dental</li><li>401K + 401k Match</li><li>11 Paid Holidays</li><li>PTO &amp; Sick Days</li></ul>",
+          "order": 5
+        }
+      ],
+      "categories": []
+    },
+    "internal_use_custom_id": "",
+    "url_detected_page": "https://kmslh.com/careers/co/dallas-texas-united-states/FA.D61/enterprise-account-executive/all/",
+    "picture_url": null,
+    "time_updated": "2026-10-02T18:27:13Z",
+    "company_name": "KMS Lighthouse",
+    "is_internal": false,
+    "linkedin_job_posting_id": null,
+    "workplace_type": "Hybrid"
+  },
+  {
+    "name": "Global Learning & Training Team Lead",
+    "department": "Delivery",
+    "email": "kmslh.95.478@applynow.io",
+    "location": {
+      "name": "Petah Tikva, Israel",
+      "country": "IL",
+      "city": "Petah Tikva",
+      "state": "Center District",
+      "postal_code": "",
+      "street_name": "9 Shimshon Street",
+      "arrival_instructions": "<p>2nd floor</p><p><span style=\"font-size: 14px;\">Aman Group</span></p><p>Lexus Building (בית לקסוס) </p>",
+      "street_number": "9",
+      "timezone": "Asia/Jerusalem",
+      "location_uid": "EE.207",
+      "is_remote": false
+    },
+    "url_comeet_hosted_page": "https://www.comeet.com/jobs/kmslh/97.008/global-learning--training-team-lead/95.478",
+    "url_recruit_hosted_page": "https://www.comeet.com/jobs/kmslh/97.008/global-learning--training-team-lead/95.478",
+    "url_active_page": "https://kmslh.com/careers/co/petah-tikva-israel/95.478/global-learning-training-team-lead/all/",
+    "employment_type": "Full-time",
+    "experience_level": "Intermediate",
+    "uid": "95.478",
+    "custom_fields": {
+      "details": [
+        {
+          "name": "Description",
+          "value": "<p>KMS Lighthouse is looking for a Global Learning &amp; Training Team Lead to join our growing delivery team. We’re seeking an innovative, hands-on professional who can both shape our global training strategy and personally deliver it, designing programs, running sessions, and building content, while growing and leading a team across multiple locations.</p><p>You’ll be a key member of our middle management team, collaborating closely with Delivery, Support, Customer Success, Product, and all other company departments to create and implement cutting-edge learning solutions.</p><p>KMS Lighthouse is an industry leader in knowledge management, working with Fortune 500 enterprise-level customers. If you’re interested in the intersection of technology, innovation, and people development, this is the place to be.</p>",
+          "order": 1
+        },
+        {
+          "name": "Responsibilities",
+          "value": "<p class=\"editor-paragraph\"><i><em class=\"editor-text-italic\" style=\"white-space: pre-wrap;\">Leadership &amp; Strategy</em></i></p><ul class=\"editor-list-ul\"><li value=\"1\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Lead, manage, and grow a global learning &amp; training team</span></li><li value=\"2\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Define and drive the global customer training strategy</span></li><li value=\"3\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Drive internal knowledge management initiatives</span></li><li value=\"4\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Innovate and modernize our e-learning platforms and methodologies</span></li><li value=\"5\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Execute special projects as assigned by department management</span></li></ul><p class=\"editor-paragraph\"><i><em class=\"editor-text-italic\" style=\"white-space: pre-wrap;\">Hands-on Delivery</em></i></p><ul class=\"editor-list-ul\"><li value=\"1\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Conduct training sessions for diverse audiences: internal teams, partners, and customers</span></li><li value=\"2\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Design and implement comprehensive onboarding programs for new employees</span></li><li value=\"3\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Develop and deliver training materials in English and Hebrew</span></li><li value=\"4\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Build and maintain e-learning content</span></li><li value=\"5\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Lead and organize customer events, both physical and virtual</span></li><li value=\"6\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Oversee external knowledge portal management</span></li></ul>",
+          "order": 2
+        },
+        {
+          "name": "Requirements",
+          "value": "<p class=\"editor-paragraph\"><i><em class=\"editor-text-italic\" style=\"white-space: pre-wrap;\">Must Have</em></i></p><ul class=\"editor-list-ul\"><li value=\"1\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Proven training and learning development experience, including hands-on delivery</span></li><li value=\"2\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Proven experience in team management</span></li><li value=\"3\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Experience developing and implementing e-learning solutions</span></li><li value=\"4\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Experience organizing and leading customer events</span></li><li value=\"5\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Excellent English and Hebrew, written and spoken</span></li><li value=\"6\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Excellent presentation skills, with the ability to engage audiences from end users to executives</span></li><li value=\"7\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Technology oriented</span></li><li value=\"8\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Strong project management capabilities</span></li><li value=\"9\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Strong innovative thinking, a creative approach, and problem-solving skills</span></li><li value=\"10\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Flexibility in working hours (global role)</span></li></ul><p class=\"editor-paragraph\"><i><em class=\"editor-text-italic\" style=\"white-space: pre-wrap;\">Nice to Have</em></i></p><ul class=\"editor-list-ul\"><li value=\"1\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Knowledge management background</span></li><li value=\"2\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Experience with SaaS products</span></li><li value=\"3\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Experience working with enterprise customers</span></li><li value=\"4\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Additional languages</span></li></ul><p class=\"editor-paragraph\"><br></p>",
+          "order": 3
+        },
+        {
+          "name": "Advantages",
+          "value": null,
+          "order": 4
+        },
+        {
+          "name": "Benefits",
+          "value": null,
+          "order": 5
+        }
+      ],
+      "categories": []
+    },
+    "internal_use_custom_id": "",
+    "url_detected_page": "https://kmslh.com/careers/co/petah-tikva-israel/95.478/global-learning-training-team-lead/all/",
+    "picture_url": null,
+    "time_updated": "2026-10-29T14:30:41Z",
+    "company_name": "KMS Lighthouse",
+    "is_internal": false,
+    "linkedin_job_posting_id": null,
+    "workplace_type": "On-site"
+  },
+  {
+    "name": "Product Manager",
+    "department": "Product Management",
+    "email": "kmslh.CA.47D@applynow.io",
+    "location": {
+      "name": "Petah Tikva, Israel",
+      "country": "IL",
+      "city": "Petah Tikva",
+      "state": "Center District",
+      "postal_code": "",
+      "street_name": "9 Shimshon Street",
+      "arrival_instructions": "<p>2nd floor</p><p><span style=\"font-size: 14px;\">Aman Group</span></p><p>Lexus Building (בית לקסוס) </p>",
+      "street_number": "9",
+      "timezone": "Asia/Jerusalem",
+      "location_uid": "EE.207",
+      "is_remote": false
+    },
+    "url_comeet_hosted_page": "https://www.comeet.com/jobs/kmslh/97.008/product-manager/CA.47D",
+    "url_recruit_hosted_page": "https://www.comeet.com/jobs/kmslh/97.008/product-manager/CA.47D",
+    "url_active_page": "https://kmslh.com/careers/co/petah-tikva-israel/CA.47D/product-manager/all/",
+    "employment_type": "Full-time",
+    "experience_level": null,
+    "uid": "CA.47D",
+    "custom_fields": {
+      "details": [
+        {
+          "name": "Description",
+          "value": "<p><strong>Join Us at the Cutting Edge of Knowledge Management</strong></p><p>Are you passionate about building products that solve real customer problems and create meaningful business impact? Do you thrive in cross functional environments, working closely with engineering, design, sales, support, and customers to turn complex challenges into simple, elegant solutions? KMS Lighthouse is looking for a highly motivated, detail oriented <strong>Product Manager</strong> with a strong sense of ownership to lead key parts of our knowledge management platform.</p><p>In this role, you will drive the strategy and execution for core product areas, including AI powered features, helping our customers deliver better experiences to employees and end users. You will own the full product lifecycle from discovery and research to delivery, iteration, and success measurement.</p>",
+          "order": 1
+        },
+        {
+          "name": "Responsibilities",
+          "value": "<ul class=\"editor-list-ul\"><li value=\"1\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Define and lead the product roadmap for key areas of the Lighthouse platform, aligning customer needs with business goals</span></li><li value=\"2\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Drive the development of AI powered capabilities that enhance search, automation, and user experience</span></li><li value=\"3\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Collaborate with engineering and design to build scalable, reliable, and intuitive products</span></li><li value=\"4\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Partner with sales, customer success, and support to understand customer challenges and translate them into product solutions</span></li><li value=\"5\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Conduct user research, customer interviews, and market analysis to identify opportunities and prioritize work</span></li><li value=\"6\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Write clear, detailed product specifications and user stories that enable teams to deliver with focus and clarity</span></li><li value=\"7\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Drive cross functional execution from discovery through development, launch, and iteration, ensuring high quality and timely delivery</span></li><li value=\"8\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Own product success metrics and use data to inform decisions, improvements, and prioritization</span></li></ul>",
+          "order": 2
+        },
+        {
+          "name": "Requirements",
+          "value": "<ul class=\"editor-list-ul\"><li value=\"1\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">3+ years of experience in product management, preferably in B2B SaaS</span></li><li value=\"2\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Strong technical fluency, able to collaborate closely with engineering, understand APIs, data flows, and system behavior</span></li><li value=\"3\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Proven track record of delivering high quality products from idea to launch in fast paced, iterative environments</span></li><li value=\"4\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Excellent collaboration and communication skills with both technical and non technical stakeholders</span></li><li value=\"5\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Strong sense of ownership, accountability, and commitment to driving outcomes</span></li><li value=\"6\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Highly motivated, organized, and detail oriented</span></li></ul>",
+          "order": 3
+        },
+        {
+          "name": "Advantages",
+          "value": null,
+          "order": 4
+        },
+        {
+          "name": "Benefits",
+          "value": "<ul><li>Experience working on knowledge management, productivity tools, or customer service platforms</li></ul>",
+          "order": 5
+        }
+      ],
+      "categories": []
+    },
+    "internal_use_custom_id": "",
+    "url_detected_page": "https://kmslh.com/careers/co/petah-tikva-israel/CA.47D/product-manager/all/",
+    "picture_url": null,
+    "time_updated": "2026-11-02T11:49:40Z",
+    "company_name": "KMS Lighthouse",
+    "is_internal": false,
+    "linkedin_job_posting_id": null,
+    "workplace_type": "On-site"
+  },
+  {
+    "name": "R&D Director",
+    "department": "R&D",
+    "email": "kmslh.95.F68@applynow.io",
+    "location": {
+      "name": "Petah Tikva, Israel",
+      "country": "IL",
+      "city": "Petah Tikva",
+      "state": "Center District",
+      "postal_code": "",
+      "street_name": "9 Shimshon Street",
+      "arrival_instructions": "<p>2nd floor</p><p><span style=\"font-size: 14px;\">Aman Group</span></p><p>Lexus Building (בית לקסוס) </p>",
+      "street_number": "9",
+      "timezone": "Asia/Jerusalem",
+      "location_uid": "EE.207",
+      "is_remote": false
+    },
+    "url_comeet_hosted_page": "https://www.comeet.com/jobs/kmslh/97.008/rd-director/95.F68",
+    "url_recruit_hosted_page": "https://www.comeet.com/jobs/kmslh/97.008/rd-director/95.F68",
+    "url_active_page": "https://kmslh.com/careers/co/petah-tikva-israel/95.F68/rd-director/all/",
+    "employment_type": "Full-time",
+    "experience_level": "Senior",
+    "uid": "95.F68",
+    "custom_fields": {
+      "details": [
+        {
+          "name": "Description",
+          "value": "<p>KMS Lighthouse is seeking an experienced <strong>R&amp;D Director</strong>&nbsp;to lead our global engineering organization and drive the execution of our technology strategy.</p><p>This role is responsible for leading multiple engineering teams through experienced managers, scaling engineering excellence, and ensuring the successful delivery of high-quality, enterprise-grade SaaS solutions.</p><p>The ideal candidate is a strong people leader with extensive experience managing large-scale engineering organizations in a global environment.</p><p>They will play a key role in accelerating AI adoption across the engineering organization, embedding AI-driven development practices, and leveraging AI technologies to improve productivity, software quality, and innovation.</p>",
+          "order": 1
+        },
+        {
+          "name": "Responsibilities",
+          "value": "<ul class=\"editor-list-ul\"><li value=\"1\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Lead and scale the global engineering organization through engineering managers, fostering a high-performance culture.</span></li><li value=\"2\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Define and execute the engineering strategy in alignment with business and product objectives.</span></li><li value=\"3\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Drive AI adoption across engineering by integrating AI-powered tools and development practices that improve productivity, software quality, and delivery.</span></li><li value=\"4\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Develop engineering leaders through coaching, mentorship, succession planning, and organizational growth.</span></li><li value=\"5\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Partner with Product, Architecture, Customer Success, and Executive Leadership to deliver scalable enterprise SaaS solutions.</span></li><li value=\"6\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Drive engineering excellence by improving development processes, operational efficiency, quality, and execution.</span></li><li value=\"7\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Oversee planning, prioritization, resource allocation, and execution across multiple engineering initiatives.</span></li><li value=\"8\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Stay ahead of emerging technologies and industry trends to ensure continuous innovation.</span></li></ul>",
+          "order": 2
+        },
+        {
+          "name": "Requirements",
+          "value": "<ul class=\"editor-list-ul\"><li value=\"1\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">10+ years of software engineering experience, including significant leadership of large engineering organizations.</span></li><li value=\"2\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Proven experience managing global engineering teams through engineering managers.</span></li><li value=\"3\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Strong background in enterprise SaaS and modern cloud technologies.</span></li><li value=\"4\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Demonstrated success driving AI adoption and modern engineering practices.</span></li><li value=\"5\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Exceptional leadership, communication, and stakeholder management skills.</span></li><li value=\"6\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Experience building and developing high-performing engineering organizations.</span></li><li value=\"7\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Bachelor’s degree in computer science, Engineering, or a related field; advanced degree is an advantage.</span></li></ul>",
+          "order": 3
+        },
+        {
+          "name": "Advantages",
+          "value": null,
+          "order": 4
+        },
+        {
+          "name": "Benefits",
+          "value": null,
+          "order": 5
+        }
+      ],
+      "categories": []
+    },
+    "internal_use_custom_id": "",
+    "url_detected_page": "https://kmslh.com/careers/co/petah-tikva-israel/95.F68/rd-director/all/",
+    "picture_url": null,
+    "time_updated": "2026-11-01T14:48:06Z",
+    "company_name": "KMS Lighthouse",
+    "is_internal": false,
+    "linkedin_job_posting_id": null,
+    "workplace_type": "On-site"
+  },
+  {
+    "name": "Support Engineer",
+    "department": "Support",
+    "email": "kmslh.AC.47A@applynow.io",
+    "location": {
+      "name": "Melbourne",
+      "country": "AU",
+      "city": "Melbourne",
+      "state": "VIC",
+      "postal_code": null,
+      "street_name": "Melbourne",
+      "arrival_instructions": "<p><br/></p>",
+      "street_number": null,
+      "timezone": "Australia/Sydney",
+      "location_uid": "04.504",
+      "is_remote": true
+    },
+    "url_comeet_hosted_page": "https://www.comeet.com/jobs/kmslh/97.008/support-engineer/AC.47A",
+    "url_recruit_hosted_page": "https://www.comeet.com/jobs/kmslh/97.008/support-engineer/AC.47A",
+    "url_active_page": "https://www.comeet.com/jobs/kmslh/97.008/support-engineer/AC.47A",
+    "employment_type": "Full-time",
+    "experience_level": "Entry-level",
+    "uid": "AC.47A",
+    "custom_fields": {
+      "details": [
+        {
+          "name": "Description",
+          "value": "<p>We are looking for a high-energy, driven <strong>Support Engineer</strong> to join our organization! KMS Lighthouse is a global industry leader in knowledge management solutions, working with Fortune 500 and Fortune 1000 enterprises. Our platform empowers organizations to deliver accurate knowledge at scale, improving customer and employee experiences across complex environments.</p><p>&nbsp;We are looking for a high-energy, driven Technical Support Engineer to join our growing team and play a key role in supporting our Australian customers, as well as global enterprise clients.</p><p>As a Technical Support Engineer at KMS Lighthouse, you will serve as a primary technical point of contact for enterprise customers. You will handle complex application support issues while collaborating closely with Development, DevOps, and Product teams to ensure service stability, best customer experience.</p>",
+          "order": 1
+        },
+        {
+          "name": "Responsibilities",
+          "value": "<ul class=\"editor-list-ul\"><li value=\"1\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Serve as a primary technical support contact for enterprise customers, with a focus on the Australian and APAC customers.</span></li><li value=\"2\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Receive, triage, investigate, and resolve support tickets</span></li><li value=\"3\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Perform in-depth troubleshooting of application, system, and infrastructure-related issues</span></li><li value=\"4\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Work closely with Development and DevOps teams on incident resolution and root cause analysis</span></li><li value=\"5\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Participate in onboarding, upgrades, and business continuity events</span></li><li value=\"6\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Conduct live troubleshooting sessions with customers</span></li><li value=\"7\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Maintain documentation of issues and resolutions</span></li></ul>",
+          "order": 2
+        },
+        {
+          "name": "Requirements",
+          "value": "<ul class=\"editor-list-ul\"><li value=\"1\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">2+ years in a client-facing Technical Support or Application Support role</span></li><li value=\"2\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Experience supporting SaaS-based products</span></li><li value=\"3\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Hands-on Linux experience (logs, CLI)</span></li><li value=\"4\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Basic to intermediate infrastructure and networking knowledge</span></li><li value=\"5\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">SQL scripting and database familiarity</span></li><li value=\"6\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Cloud experience, preferably Microsoft Azure</span></li><li value=\"7\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">ITSM knowledge and ticketing systems (Jira – plus)</span></li><li value=\"8\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Strong communication and problem-solving skills</span></li></ul>",
+          "order": 3
+        },
+        {
+          "name": "Advantages",
+          "value": null,
+          "order": 4
+        },
+        {
+          "name": "Benefits",
+          "value": null,
+          "order": 5
+        }
+      ],
+      "categories": []
+    },
+    "internal_use_custom_id": "",
+    "url_detected_page": null,
+    "picture_url": null,
+    "time_updated": "2026-11-04T15:23:47Z",
+    "company_name": "KMS Lighthouse",
+    "is_internal": false,
+    "linkedin_job_posting_id": null,
+    "workplace_type": "Hybrid"
+  },
+  {
+    "name": "Support Engineer Team Lead",
+    "department": "Support",
+    "email": "kmslh.4F.27D@applynow.io",
+    "location": {
+      "name": "Dallas, Texas, United States",
+      "country": "US",
+      "city": "Irving",
+      "state": "TX",
+      "postal_code": "75039",
+      "street_name": "909 Lake Carolyn Parkway",
+      "arrival_instructions": "<p dir=\"RTL\" style=\"direction: rtl;text-align: right;\">909 Tower Lake Carolyn Pkwy</p><p dir=\"RTL\" style=\"direction: rtl;text-align: right;\">Suite 310</p><p dir=\"RTL\" style=\"direction: rtl;text-align: right;\">Irving, TX 75039</p><p dir=\"RTL\" style=\"direction: rtl;text-align: right;\">United States</p>",
+      "street_number": "",
+      "timezone": "America/Chicago",
+      "location_uid": "EE.209",
+      "is_remote": false
+    },
+    "url_comeet_hosted_page": "https://www.comeet.com/jobs/kmslh/97.008/support-engineer-team-lead/4F.27D",
+    "url_recruit_hosted_page": "https://www.comeet.com/jobs/kmslh/97.008/support-engineer-team-lead/4F.27D",
+    "url_active_page": "https://kmslh.com/careers/co/dallas-texas-united-states/4F.27D/support-engineer-team-lead/all/",
+    "employment_type": "Full-time",
+    "experience_level": "Senior",
+    "uid": "4F.27D",
+    "custom_fields": {
+      "details": [
+        {
+          "name": "Description",
+          "value": "<p>KMS Lighthouse is one of the hottest up and coming tech companies working with Fortune 500 and Fortune 1000 enterprises around the world! Named the #1 knowledge management company in the Forrester Wave Report 2024, we are an industry leader in knowledge management solutions. </p><p>We are looking for a Support Engineer Team Lead to function as a player-coach - supporting our SaaS knowledge management system and leading a 3-person team in day-to-day work life. You will work closely with the Global Head of Support, DevOps, and Development teams to lead the support team and represent KMS Lighthouse as a professional and technical authority for clients. &nbsp;</p><p>The lead in this role must be able to take initiative and effectively communicate with their team, senior leadership, and clients.</p>",
+          "order": 1
+        },
+        {
+          "name": "Responsibilities",
+          "value": "<ul class=\"editor-list-ul\"><li value=\"1\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Function as the primary technical team player-coach&nbsp;</span></li><li value=\"2\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Lead the support team in day-to-day operations&nbsp;</span></li><li value=\"3\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Screen incoming tickets,&nbsp;distribute them to specialized team members, and work on tickets&nbsp;</span></li><li value=\"4\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Provide a high level of troubleshooting for our major clients in North America and around the Globe&nbsp;</span></li><li value=\"5\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Interface with clients regularly whether for live troubleshooting, various technical calls, and/or escalations&nbsp;</span></li><li value=\"6\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Troubleshoot incidents and system events; escalating to specialized teams when necessary&nbsp;</span></li><li value=\"7\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Work closely with development teams and DevOps teams&nbsp;</span></li><li value=\"8\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Take an active role in the customer lifecycle and business continuity events&nbsp;</span></li><li value=\"9\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Train, mentor, and develop the support team (i.e. skill development, professional development, etc.)&nbsp;</span></li></ul><p class=\"editor-paragraph\"><br></p>",
+          "order": 2
+        },
+        {
+          "name": "Requirements",
+          "value": "<ul class=\"editor-list-ul\"><li value=\"1\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">3 years of experience as a Support Engineer or in a similarly technical role</span></li><li value=\"2\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">1 year of experience leading a team</span></li><li value=\"3\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Must have experience interfacing with clients, preferably enterprise clients</span></li><li value=\"4\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Experience directly supporting a SaaS solution is required</span></li><li value=\"5\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Experience with Linux administration and scripting is required</span></li><li value=\"6\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Experience with SQL scripting and data familiarity</span></li><li value=\"7\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Experience working with Microsoft Azure or other cloud providers</span></li><li value=\"8\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Experience working with Virtualization systems (VMware or other)</span></li><li value=\"9\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Experience working with Kubernetes (advantage)</span></li><li value=\"10\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Basic to intermediate infrastructure and networking knowledge</span></li><li value=\"11\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Knowledge of Windows administration</span></li></ul>",
+          "order": 3
+        },
+        {
+          "name": "Advantages",
+          "value": null,
+          "order": 4
+        },
+        {
+          "name": "Benefits",
+          "value": "<ul class=\"editor-list-ul\"><li value=\"1\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">Medical, Dental, Vision</span></li><li value=\"2\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">401K &amp; 401K Match</span></li><li value=\"3\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">PTO &amp; Sick Days</span></li><li value=\"4\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">11 Paid Holidays</span></li></ul>",
+          "order": 5
+        }
+      ],
+      "categories": []
+    },
+    "internal_use_custom_id": "",
+    "url_detected_page": "https://kmslh.com/careers/co/dallas-texas-united-states/4F.27D/support-engineer-team-lead/all/",
+    "picture_url": null,
+    "time_updated": "2026-11-04T14:07:46Z",
+    "company_name": "KMS Lighthouse",
+    "is_internal": false,
+    "linkedin_job_posting_id": null,
+    "workplace_type": "On-site"
+  }
+]
