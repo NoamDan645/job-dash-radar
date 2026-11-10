@@ -1,7 +1,13 @@
 import hashlib
 import html
+import json
+import os
 import re
+from pathlib import Path
+
 import pandas as pd
+import psycopg
+from dotenv import load_dotenv
 
 YEARS_RE = re.compile(r"(\d+)(?:\s*[-–]\s*\d+)?\+?\s*years?", re.IGNORECASE)
 
@@ -67,4 +73,50 @@ def add_job_id_and_hash(jobs):
     jobs["job_id"] = jobs["ats_type"] + ":" + jobs["company_id"] + ":" + jobs["external_id"]
     jobs["content_hash"] = jobs.apply(make_content_hash, axis=1)
     return jobs
+
+
+def save_jobs(jobs):
+    records = jobs.astype(object).where(jobs.notna(), None).to_dict("records")
+    inserted = 0
+
+    with psycopg.connect(
+       host=os.environ.get("POSTGRES_HOST", "localhost"),
+
+        port=5432,
+        user="noam",
+        password=os.environ["POSTGRES_PASSWORD"],
+        dbname="jobradar",
+    ) as conn:
+        for job in records:
+            cur = conn.execute(
+                """
+                INSERT INTO job_postings (job_id, company_id, ats_type, external_id, title, level,
+                                          city, work_mode, url, description, min_years_experience,
+                                          content_hash)
+                VALUES (%(job_id)s, %(company_id)s, %(ats_type)s, %(external_id)s, %(title)s, %(level)s,
+                        %(city)s, %(work_mode)s, %(url)s, %(description)s, %(min_years_experience)s,
+                        %(content_hash)s)
+                ON CONFLICT (job_id) DO NOTHING
+                """,
+                job,
+            )
+            inserted += cur.rowcount
+
+    print("Processed:", len(records))
+    print("Inserted:", inserted)
+
+
+if __name__ == "__main__":
+    load_dotenv()
+
+    greenhouse_raw = json.loads(Path("samples/greenhouse/axonius.json").read_text(encoding="utf-8"))["jobs"]
+    comeet_raw = json.loads(Path("samples/comeet/kmslh.json").read_text(encoding="utf-8"))
+
+    jobs = pd.concat([
+        normalize_greenhouse(greenhouse_raw, "515673382"),
+        normalize_comeet(comeet_raw, "512336231"),
+    ], ignore_index=True)
+    jobs = add_job_id_and_hash(jobs)
+
+    save_jobs(jobs)
 
